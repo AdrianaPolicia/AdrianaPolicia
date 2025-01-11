@@ -1,16 +1,15 @@
-## Hi there 👋
+## olá 👋, sou a Adriana Policia
 
 <!--
 **AdrianaPolicia/AdrianaPolicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mim:
+- nasci em Portugal-Porto
+- tenho 18 anos
+- estudante de Administração na Inteli
+- sou apaixonada por Formula 1
+- Fun Fact: ja morei na Romenia, mas moro no Brasil faz 15 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Redes Socias:
+- Instagram: https://www.instagram.com/adriana_policia?igsh=MTltdjZxYjEwd2lneQ%3D%3D&utm_source=qr
+- Email: adriana.policia@gmail.com
