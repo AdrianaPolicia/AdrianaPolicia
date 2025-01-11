@@ -1,8 +1,5 @@
 ## olá 👋, sou a Adriana Policia
 
-<!--
-**AdrianaPolicia/AdrianaPolicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sobre mim:
 - nasci em Portugal-Porto
 - tenho 18 anos
